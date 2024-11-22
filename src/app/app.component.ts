@@ -27,7 +27,7 @@ export class AppComponent {
       imageAlt:'1'
 
     },
-    {
+{
       imageSrc: '/assets/images/image2.jpg',
       imageAlt:'2'
     },
